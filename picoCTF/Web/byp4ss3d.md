@@ -140,4 +140,5 @@ The vulnerability existed due to **two compounding misconfigurations:**
 
 ---
 
-*Writeup by: [your handle] | picoCTF*
+*Writeup by: [Vivek Bhandari] | picoCTF*
+
