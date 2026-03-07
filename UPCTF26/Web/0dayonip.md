@@ -1,8 +1,6 @@
 # upCTF — 0day on ipaddress
 
 > **Category:** Web  
-> **Points:** 496  
-> **Solves:** 3  
 > **Flag:** `upCTF{h0w_c4n_1_wr1t3_t0_4n_ip4ddress?!-H66gZvrGa38124b8}`
 
 ---
